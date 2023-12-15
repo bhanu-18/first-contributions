@@ -153,6 +153,7 @@ Balraj
 - [Syam Kumar Chintakayala] (https://github.com/chsyam)
 - [Narayana Chetty G] (https://github.com/gnarayanachetty)
 - [Nathan Blackburn] (https://github.com/NathanBlackburnDev)
+- [Bhanuteja Talasila](https://github.com/bhanu-18)
 - [HalconVengador2004]
 - [Harshcreator] (https://github.com/Harshcreator)
  (https://github.com/HalconVengador2004)
@@ -5565,3 +5566,4 @@ Kumar Kaji
 -[Leonora Pranjic](https://github.com/leonora1901/)
 -[Aswin R](https://github.com/AshCoder07)
 - [Arouna SIDIBE](https://github.com/mansasidibe)
+
